@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: mousai\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-08 11:01+0800\n"
-"PO-Revision-Date: 2021-04-03 13:26+0000\n"
-"Last-Translator: Nicolas Mariniello <seldon1000@tutanota.com>\n"
+"PO-Revision-Date: 2021-04-08 20:26+0100\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/kooha/mousai/it/"
 ">\n"
 "Language: it\n"
@@ -37,12 +37,16 @@ msgid ""
 "Mousai is a simple application that can identify song like Shazam. It can "
 "identify both its title and artist."
 msgstr ""
+"Mousai è una semplice applicazione in grado di identificare canzoni come Shazam. Può "
+"identificare sia il titolo che l'artista.
 
 #: data/io.github.seadve.Mousai.appdata.xml.in:12
 msgid ""
 "Note: This uses the API of audd.io, so it is necessary to login to their "
 "site to get more trials."
 msgstr ""
+"Nota: Questo utilizza l'API di audd.io, quindi è necessario accedere al loro "
+"sito per ottenere più prove."
 
 #. Translators: please do NOT translate this
 #: data/io.github.seadve.Mousai.appdata.xml.in:21
